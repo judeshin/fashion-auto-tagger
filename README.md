@@ -1,4 +1,4 @@
-# Fashion Auto-Tagger: CLIP-based Automated Keyword Generation for Fashion Images
+# Fashion Auto Tagger: CLIP-based Automated Keyword Generation for Fashion Images
 
 A proof-of-concept tool that automatically generates relevant keywords for fashion product images using OpenAI's CLIP model.
 
@@ -12,9 +12,15 @@ As a Product Manager at CLO Virtual Fashion, I wanted to explore how AI could st
 **Output:** Relevant keywords with confidence scores
 
 ```
-Input: hoodie.png
-Output: ['hoodie(0.32)', 'pullover(0.30)', 'hood(0.29)', 'jacket(0.27)', 'shirt(0.27)']
+Input: test.png
+Output: ['hoodie(0.32)', 'pullover(0.30)', 'hood(0.29)', 'sweater(0.28)', 'coat(0.27)']
 ```
+
+### Input Image
+<img height="400" alt="test" src="https://github.com/user-attachments/assets/413e2c62-8d07-4dac-9859-e8b6717f659d" />
+
+### Output
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/f3ee3fb8-e43b-44e9-8cf0-173da9e14549" />
 
 ## 🛠️ Tech Stack
 
@@ -96,7 +102,7 @@ Created by **Jude** - Product Manager at CLO Virtual Fashion
 
 - Fashion design background (Bunka Fashion College, Tokyo)
 - 5+ years in product management
-- Passionate about AI × Fashion
+- Passionate about AI × Fashion x Search
 
 ## 📝 License
 
